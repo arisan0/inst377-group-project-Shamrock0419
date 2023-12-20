@@ -1,5 +1,6 @@
 # inst377-group-project-Shamrock0419
 inst377-group-project-Shamrock0419 created by GitHub Classroom
+Names: Shamyr Douglas, Zach Craven, Ariana Sanford
 
 Name: FoodFacts
 
