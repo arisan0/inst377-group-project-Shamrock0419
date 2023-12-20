@@ -3,7 +3,7 @@ inst377-group-project-Shamrock0419 created by GitHub Classroom
 
 Name: FoodFacts
 
-Description: In response to the growing need for transparent and comprehensive information on food products, we propose the development of the Food Facts Platform(FFP). The FFP aims to empower individuals to make informed dietary choices by providing a centralized and accessible source of detailed information regarding the food products they are putting into their system. The FFP aims to go beyond the limitations of traditional nutrition labels by offering a holistic view, including not only nutritional facts but also all the ingredients and where they originated, allergens, consumer-relevant labels, and environmental impact metrics, such as carbon footprint.
+Description: In response to the growing need for transparent and comprehensive information on food products, we propose the development of the Food Facts Platform(FFP). The FFP aims to empower individuals to make informed dietary choices by providing a centralized and accessible source of detailed information regarding the food products they put into their system. The FFP aims to go beyond the limitations of traditional nutrition labels by offering a holistic view, including not only nutritional facts but also all the ingredients and where they originated, allergens, consumer-relevant labels, and environmental impact metrics, such as carbon footprint.
 
 Target Browsers: this application is designed to be compatible with modern web browsers and should work with Google Chrome, Safari, Microsoft Edge, etc.
 Compatibility on both iOS and Android Devices is expected.
